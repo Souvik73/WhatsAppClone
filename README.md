@@ -19,6 +19,6 @@ Android Studio - Android sdk
 Souvik Banerjee
 
 ### Acknowledgments
-Hat tip to anyone whose code was used
+Thanks to all whose codes were used.
 ### Inspiration
 MTech Viral(Pawan Kumar)
