@@ -11,9 +11,9 @@ Things you need to install:
 For more info head towards https://flutter.dev/docs/get-started/install 
 
 ## Built With
-Flutter - The sdk used
-VS Code - IDE used
-Android Studio - Android sdk
+*Flutter - The sdk used
+*VS Code - IDE used
+*Android Studio - Android sdk
 
 ## Authors
 Souvik Banerjee
