@@ -1,4 +1,4 @@
-WhatsAppClone
+#WhatsAppClone
 The UI of this app is similar to WhatsApp. this App is called ChatApp
 
 Getting Started
