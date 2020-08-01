@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 Things you need to install:
 1. Flutter sdk
 2. Android Studio/VS Code (IDE)
-\nFor more info head towards https://flutter.dev/docs/get-started/install 
+
+For more info head towards https://flutter.dev/docs/get-started/install 
 
 ## Built With
 1. Flutter - The sdk used
