@@ -2,7 +2,7 @@
 The UI of this app is similar to WhatsApp. this App is called ChatApp
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You can build apps with Flutter using any text editor combined with our command-line tools. However, I recommend using one of Flutter's editor plugins for an even better experience. These plugins provide you with code completion, syntax highlighting, widget editing assists, run & debug support, and more.
 
 ## Prerequisites
 Things you need to install:
